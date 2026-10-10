@@ -1,6 +1,6 @@
 # NDVI z danych Sentinel-2 w QGIS – okolice Jeleniej Góry
 
-**Autor:** Adam Nowicki · **Data:** 10.10.2026
+**Autor:** Adam Nowicki · **Nr indeksu:** 109627 · **Data:** 10.10.2026
 
 ## Cel
 
